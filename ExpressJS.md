@@ -19,17 +19,18 @@
    - $ npm i express
 5. write server application in index.js
     
-// 1. import our express module
-import express from "express";
-
-//2. create app variable which is using express object
-const app = express();
-
-//3. in app method listens the port(3000) and callback(Console.log)
-app.listen(3000, () => {
-    console.log("Our server is running on port 3000.");
-});
+      // 1. import our express module
+      import express from "express";
+      
+      //2. create app variable which is using express object
+      const app = express();
+      
+      //3. in app method listens the port(3000) and callback(Console.log)
+      app.listen(3000, () => {
+          console.log("Our server is running on port 3000.");
+     });
 ☝️ check out above code 
+
 6. Start server
    - $ node index.js
 # How to check our server actually running on?
