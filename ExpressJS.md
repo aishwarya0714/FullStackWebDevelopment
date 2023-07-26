@@ -40,3 +40,11 @@
 
 <img width="881" alt="Screenshot 2023-07-26 214836" src="https://github.com/aishwarya0714/FullStackWebDevelopment/assets/136805991/c03aa906-78e5-4667-b363-de632b305e60">
 
+# 💡What is LOCALHOST?
+
+It is simply when we dont have a server on the internet and insted we want to host our server localy. So, making our own computer our server of our website backend and that is the local part of our hossting.
+
+# 💡 what is PORT?
+
+Inside the server Port is kind of bunch of doorson our server computer, and each of these doors have an address.
+- to check the port on windows write netstat -ano | findstr "LISTENING" in cmd
