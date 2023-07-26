@@ -48,3 +48,28 @@ It is simply when we dont have a server on the internet and insted we want to ho
 
 Inside the server Port is kind of bunch of doorson our server computer, and each of these doors have an address.
 - to check the port on windows write netstat -ano | findstr "LISTENING" in cmd
+
+# 💡 HTTP Request:
+- HyperText Transfer Protocol :- Language that allows computer to talk to eachother.
+
+# 💡 Request Vocab:- 
+1. GET - Request server
+2. POST - Sending resource to the server. eg. email or pwd to be send to the server
+3. PUT - Update method. While you want ot update something by replacing it completely.
+4. PATCH - Update method. You want to patch up the resources 
+5. DELETE - Delete resource
+
+// using get method to sent request
+-
+app.get("/", (req,res) => {
+    console.log(req.rawHeaders);
+    res.send("Hi I am Aishwarya!");
+});
+
+# 🚀 nodemon
+nodemon is a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+
+- npm i nodemon
+
+☝️ check out above code 
+
