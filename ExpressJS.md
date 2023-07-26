@@ -32,7 +32,7 @@ app.listen(3000, () => {
 ☝️ check out above code 
 6. Start server
    - $ node index.js
-How to check our server actually running on?
+# How to check our server actually running on?
   - go to browser write
     http://localhost:3000/
 
