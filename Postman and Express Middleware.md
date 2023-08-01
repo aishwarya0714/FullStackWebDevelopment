@@ -48,5 +48,11 @@ app.use(morgan("tiny"));
 # DIY middleware
  
 
+function logger(req,res,next){
+  console.log("Request Method: ", req.method);
+  console.log("Request url: ", req.url);
+next();
+}
+app.use(logger);
 
 
