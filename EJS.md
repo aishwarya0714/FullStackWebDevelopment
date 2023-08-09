@@ -10,7 +10,7 @@ it is almost like having a little javascript module that can run js code inside 
   - JS output
 * <% console.log("hello") %>
   - JS Execute
-* <%- html content %>
+* < % - html content %>
   - Render HTML
 * <%% not enterpreted %>
   - Show <% or %>
