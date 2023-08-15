@@ -66,4 +66,4 @@ So, our file is now in staging area.
 16. Now, check your commits-
     - $ git log
         at this time it will include all your commits
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+============================================================================
