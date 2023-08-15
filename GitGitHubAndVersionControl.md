@@ -35,4 +35,35 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 will get output like this, means our file is still in working directory not in staging area.
 
+9. Now to start traking changes in our file we use following command
+    - $ git add Chapter1.txt
+10. Now, we again check status
+    - $ git status
+-------------------------------------------------
+On branch master
 
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   Chapter1.txt
+
+----------------------------------------------------
+
+So, our file is now in staging area.
+
+11. to commit our changes we use-
+    - $ git commit -m "Comlpete Chapter 1"
+12. to check commit changes
+    - $ git log
+
+13. Now, create 2 more files by following step 4,5.
+14. Add these files into staging area by using-
+    - $ git add .
+      . will add all directory in one go.
+15. Verify git status-
+    - $ git status
+16. Now, check your commits-
+    - $ git log
+        at this time it will include all your commits
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
