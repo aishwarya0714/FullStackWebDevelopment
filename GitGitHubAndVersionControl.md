@@ -70,3 +70,9 @@ So, our file is now in staging area.
 ### well, Sometimes you might not want to add all of your files to be tracked or all of your files to be commited, So the stating area is a good place to try and figure out what are the things that you want git to ignore and what are the things you want to be tracked at once. then we commit this to the git repo.
 ### So now, our file is inside our local repository and that version is given a name through the commit message.
 ### So, that means that even if we've messed up our file, we can still use the last version thats under version control and we can use a special command called Git Checkout to revert back or roll back to the last position in our local repository." 
+
+17. now we make change in any one of the file and then hit the git status command, ehich will show us that this file is modified
+    <img width="392" alt="image" src="https://github.com/aishwarya0714/FullStackWebDevelopment/assets/136805991/39732c17-7676-4e7a-9a47-9c7a10bba9a7">
+
+    
+
