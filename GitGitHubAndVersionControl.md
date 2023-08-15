@@ -66,4 +66,7 @@ So, our file is now in staging area.
 16. Now, check your commits-
     - $ git log
         at this time it will include all your commits
-============================================================================
+### " We created file inside your directory, working directory is the folder or directory where you initialize your git repository. then we used git add to push it into staging area. Now the reason why there is this intermediate staging are beacause you might wonder why not just go from the working directory straight to the repository? why do we need this extra step?
+### well, Sometimes you might not want to add all of your files to be tracked or all of your files to be commited, So the stating area is a good place to try and figure out what are the things that you want git to ignore and what are the things you want to be tracked at once. then we commit this to the git repo.
+### So now, our file is inside our local repository and that version is given a name through the commit message.
+### So, that means that even if we've messed up our file, we can still use the last version thats under version control and we can use a special command called Git Checkout to revert back or roll back to the last position in our local repository." 
