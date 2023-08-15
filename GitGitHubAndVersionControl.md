@@ -72,6 +72,7 @@ So, our file is now in staging area.
 ### So, that means that even if we've messed up our file, we can still use the last version thats under version control and we can use a special command called Git Checkout to revert back or roll back to the last position in our local repository." 
 
 17. now we make change in any one of the file and then hit the git status command, ehich will show us that this file is modified
+    
   <img width="391" alt="image" src="https://github.com/aishwarya0714/FullStackWebDevelopment/assets/136805991/6dc76735-df27-41e4-9c7f-feafd59e5325">
 
 18. now we chaek differen in modification
