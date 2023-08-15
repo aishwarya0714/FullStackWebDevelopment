@@ -30,7 +30,8 @@ Untracked files:
         Chapter1.txt
 
 nothing added to commit but untracked files present (use "git add" to track)
---------------------------------------
+  
+ ---------------------------------------
 
 will get output like this, means our file is still in working directory not in staging area.
 
