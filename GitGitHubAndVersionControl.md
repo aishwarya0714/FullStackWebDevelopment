@@ -98,5 +98,6 @@ lets learn git ignore step by step
      - after git add . will add all file is staging area except secret.txt
      - will see git status
        <img width="270" alt="image" src="https://github.com/aishwarya0714/FullStackWebDevelopment/assets/136805991/30f4c981-2017-4095-9ea5-32d6e1f29088">
+       
 
 
