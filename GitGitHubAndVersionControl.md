@@ -79,3 +79,24 @@ So, our file is now in staging area.
     - $ git diff Chapter3.txt
 19. we rollback changes
     - $ git checkout Chapter3.txt
+
+* command to remove all files from staging area:
+
+      - $ git rm --cached -r .
+
+--------------------------------------------------------------------
+
+# Gitignore 💡
+
+lets learn git ignore step by step
+
+1. create one directory and some files in that with one file named as secret.txt
+2. now create one .gitignore file inside your directory
+   - this file will contain the file names which we want to ignore to commit.
+     - SO, when we add files in staging area that perticulaer file will ignored.
+     - here secret.txt is our file which we want to ignore so we write its name in .gitignore
+     - after git add . will add all file is staging area except secret.txt
+     - will see git status
+       <img width="270" alt="image" src="https://github.com/aishwarya0714/FullStackWebDevelopment/assets/136805991/30f4c981-2017-4095-9ea5-32d6e1f29088">
+
+
