@@ -131,3 +131,11 @@ steps :
 
 
 here * represents in which branch we are currently in.
+
+3. Now to go inside perticular branch
+
+<img width="177" alt="image" src="https://github.com/aishwarya0714/FullStackWebDevelopment/assets/136805991/13bf7947-5e7e-46b1-b903-7c1fdcfdcd57">
+
+<img width="92" alt="image" src="https://github.com/aishwarya0714/FullStackWebDevelopment/assets/136805991/b11cf71f-5a84-4288-a18f-3aed76547f10">
+
+
