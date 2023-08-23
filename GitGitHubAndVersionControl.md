@@ -103,6 +103,31 @@ lets learn git ignore step by step
 
 # Git Clone
 
+git log url
+
 * this is a way for you to pull down all of the version and all of the commits of perticular remote repository and to store the files in your own working directory.
 * So once youve cloned a repo, youve essentially made a copy of it on your own local eveniornment and allows you to stand on the shoulder of gaints and continue where the left off so you wont need clone it again during regular development.
 * It allows you to leverage somebody elses open source code. So theyre putting their source code out onto the internet and you can simply make copy of it and continue where thry left off.
+
+repositories:
+https://github.com/clupasq/word-mastermind
+https://github.com/inolen/quakejs
+https://github.com/MunGell/awesome-for-beginners#javascript
+
+# Branching and Merging
+
+Branching is like, when we work on our project and we want to experiment new thing without affecting main part will create a aeparate branch and make changes in it and once we decide that this new part is helpfull will sipmly merge that part into our main project.
+
+git branch 'name of branch'
+
+steps :
+1. will create new branch in our project
+   
+   <img width="145" alt="image" src="https://github.com/aishwarya0714/FullStackWebDevelopment/assets/136805991/d8457ec9-7bcd-42d8-8068-678ddd9843a8">
+
+2. To check branches in project
+
+   <img width="102" alt="image" src="https://github.com/aishwarya0714/FullStackWebDevelopment/assets/136805991/1b4c9978-7d3d-4046-9737-d026c5dd299d">
+
+
+here * represents in which branch we are currently in.
