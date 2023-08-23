@@ -101,4 +101,8 @@ lets learn git ignore step by step
        <img width="270" alt="image" src="https://github.com/aishwarya0714/FullStackWebDevelopment/assets/136805991/30f4c981-2017-4095-9ea5-32d6e1f29088">
        
 
+# Git Clone
 
+* this is a way for you to pull down all of the version and all of the commits of perticular remote repository and to store the files in your own working directory.
+* So once youve cloned a repo, youve essentially made a copy of it on your own local eveniornment and allows you to stand on the shoulder of gaints and continue where the left off so you wont need clone it again during regular development.
+* It allows you to leverage somebody elses open source code. So theyre putting their source code out onto the internet and you can simply make copy of it and continue where thry left off.
