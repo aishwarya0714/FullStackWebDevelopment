@@ -138,4 +138,7 @@ here * represents in which branch we are currently in.
 
 <img width="92" alt="image" src="https://github.com/aishwarya0714/FullStackWebDevelopment/assets/136805991/b11cf71f-5a84-4288-a18f-3aed76547f10">
 
+* merging:
+  git merge 'name of branch'
+
 
