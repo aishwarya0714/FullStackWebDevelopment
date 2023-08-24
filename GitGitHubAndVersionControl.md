@@ -141,4 +141,5 @@ here * represents in which branch we are currently in.
 * merging:
   git merge 'name of branch'
 
-
+* Forking and pulling
+  Forking is making a copy of the remote repository and putting it under your own GitHub account.
