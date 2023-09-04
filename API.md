@@ -1,4 +1,4 @@
-# API – Application Programming Interface
+# API – Application Programming Interface 🚀
 
 API is like set of rules or protocols that defines how different software’s can interact with each other.
 
@@ -24,6 +24,9 @@ For web REST APIs are mostly used. It uses HTTP protocols.
 
 * For example, your are providing your user name and passward to access the API with API provider
 * It involves Base64 Encoding - taking text (ASCII) that can be converted into bit then encoding it into charachter
+  
+<img width="375" alt="image" src="https://github.com/aishwarya0714/FullStackWebDevelopment/assets/136805991/ca20bfc0-2854-4015-aae8-e73ce136e6b4">
+
 
   ##### API that we are using here https://secrets-api.appbrewery.com/
 
@@ -41,4 +44,7 @@ Steps:
    <img width="604" alt="image" src="https://github.com/aishwarya0714/FullStackWebDevelopment/assets/136805991/385e6dc8-c37f-42bb-8f40-6c835d40726b">
 
 you can copy it past in https://www.base64encode.org/ it automatically decode it to original format
+
+<img width="324" alt="image" src="https://github.com/aishwarya0714/FullStackWebDevelopment/assets/136805991/8fc50c2e-0067-4c22-9c5b-88a5010c7586">
+
 
