@@ -15,5 +15,14 @@ For web REST APIs are mostly used. It uses HTTP protocols.
 - 2. API Key Authorization
 - 3. Token Based Authentication
 
-## 0. No authentication
-djdf
+### 0. No authentication
+
+* public api
+* accessible to everyone
+
+### 1. Basic Authentication
+
+* For example, your are providing your user name and passward to access the API with API provider
+* It involves Base64 Encoding - taking text (ASCII) that can be converted into bit then encoding it into charachter
+
+  ##### API that we are using here https://secrets-api.appbrewery.com/
