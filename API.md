@@ -47,4 +47,12 @@ you can copy it past in https://www.base64encode.org/ it automatically decode it
 
 <img width="324" alt="image" src="https://github.com/aishwarya0714/FullStackWebDevelopment/assets/136805991/8fc50c2e-0067-4c22-9c5b-88a5010c7586">
 
+# 2. API Key Authorization
 
+- API Key allows you to use api.
+
+# 3. Token Based Authentication
+
+- it is more secure because essentially we're getting the user to use a username and pwd to log in and then once they've logged in, we generate a token to be used with API so the API douesnt get involved with username and pwd and instead its the token thats constantly being used to interact with API.
+
+  
