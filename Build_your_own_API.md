@@ -6,6 +6,6 @@ We are Building REST API
 
 💡 Why REST API?
 
-- 🖊️ Number one rule for making an API restful is that it uses standard HTTP methods.
-- 🖊️ 
+🖊️ Number one rule for making an API restful is that it uses standard HTTP methods.
+🖊️ 
 
