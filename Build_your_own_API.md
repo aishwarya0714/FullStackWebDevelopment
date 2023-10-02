@@ -121,7 +121,3 @@ var Royal_Enfield = [
         price: "Rs. 3.19 - 3.45 Lakh "
     }
 ]
-
-
-
-
