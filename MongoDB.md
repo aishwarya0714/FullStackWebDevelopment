@@ -20,4 +20,11 @@ db.collections.find(query,projection)
 
 <img width="460" alt="image" src="https://github.com/aishwarya0714/FullStackWebDevelopment/assets/136805991/b4142a29-ecda-4025-9e17-921db7943a79">
 
+### Update data
+
+<img width="765" alt="image" src="https://github.com/aishwarya0714/FullStackWebDevelopment/assets/136805991/66faaf56-5297-446b-b96f-51f7d583baef">
+
+### delete data
+
+<img width="655" alt="image" src="https://github.com/aishwarya0714/FullStackWebDevelopment/assets/136805991/5c75e09f-171a-4877-9bd2-78cb2b743fca">
 
